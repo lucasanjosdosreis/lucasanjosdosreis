@@ -20,6 +20,15 @@
 <div>
    <a href = "mailto:lucasanjosdosreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-anjos-dos-reis-b90888133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
+<br />
+
+[![lucas github stats](https://github-readme-stats.vercel.app/api?username=rodolfomori&show_icons=true&theme=buefy)](https://github.com/lucasanjosdosreis/github-readme-stats)
+
+<br />
+
+[![Liguanges](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanjos&layout=compact&show_icons=true&theme=buefy)](https://github.com/lucasanjosdosreis/github-readme-stats)
   
 </div>
 </div>
