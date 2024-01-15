@@ -24,11 +24,11 @@
   
 <br />
 
-[![lucas github stats](https://github-readme-stats.vercel.app/api?username=rodolfomori&show_icons=true&theme=buefy)](https://github.com/lucasanjosdosreis/github-readme-stats)
+[![lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasanjosdosreis&show_icons=true&theme=buefy)](https://github.com/lucasanjosdosreis/github-readme-stats)
 
 <br />
 
-[![Liguanges](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanjos&layout=compact&show_icons=true&theme=buefy)](https://github.com/lucasanjosdosreis/github-readme-stats)
+[![Linguanges](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanjos&layout=compact&show_icons=true&theme=buefy)](https://github.com/lucasanjosdosreis/github-readme-stats)
   
 </div>
 </div>
