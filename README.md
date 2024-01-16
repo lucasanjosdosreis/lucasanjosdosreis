@@ -28,7 +28,6 @@
 
 <br />
 
-[![Linguanges](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanjos&layout=compact&show_icons=true&theme=buefy)](https://github.com/lucasanjosdosreis/github-readme-stats)
   
 </div>
 </div>
