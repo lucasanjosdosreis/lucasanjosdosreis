@@ -1,7 +1,6 @@
 ## Ola Eu sou, Lucas Anjos dos Reis 
 
-- Eu estou procurando emprego Front End JR.
-- Estudando muito...
+
 - Contato no meu email: lucasanjosdosreis@gmail.com
 
 <div style="display: inline_block"><br>
