@@ -26,8 +26,7 @@ Outras Habilidades:
  > Microsoft Power Plataforma PL-900 
  > Linguagem Python
 
-E-mail para contato: lucasanjosdosreis@gmail.com
-Git hub: https://github.com/lucasanjosdosreis
+
 -
 
 
