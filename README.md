@@ -1,7 +1,35 @@
 ## Ola Eu sou, Lucas Anjos dos Reis 
 
+Eu Sou um profissional dedicado ao desenvolvimento de websites,  Minha paixão reside na criação de aplicações e Sites  envolventes e funcionais, sempre mantendo-me atualizado com as tecnologias líderes do mercado.
 
-- Contato no meu email: lucasanjosdosreis@gmail.com
+Minha formação é em Análise Desenvolvimento de Sistemas concluindo em 2021. 
+Faculdade: Universidade Braz Cubas  Cidade: Mogi das Cruzes -  SP
+
+Com uma sólida base em HTML, CSS e JavaScript, entre outras ferramentas, estou sempre em busca de soluções inovadoras para oferecer experiências digitais excepcionais. Minha abordagem combina criatividade e conhecimento técnico, resultando em sites que não apenas impressionam visualmente, mas também proporcionam uma navegação intuitiva e eficiente.
+
+
+Estou expandindo meu aprendizado e construindo meu portfólio com projetos práticos. Atualmente, tenho habilidades em:
+
+• Conhecimento de HTML, CSS, JavaScript, PHP, MySQL
+• Conhecimento de Git/Github
+• Conhecimento em Figma/Canva
+• Conhecimento em Vue.js
+• Biblioteca JavaScript : React.js 
+
+
+Outras Habilidades: 
+
+ >  Administrador Banco de Dados 
+ >  Microsoft Power Bi
+ >  Análise Dados 
+ >  AI-900 - Fundamentos de IA no Azure 
+ > Microsoft Power Plataforma PL-900 
+ > Linguagem Python
+
+E-mail para contato: lucasanjosdosreis@gmail.com
+Git hub: https://github.com/lucasanjosdosreis
+-
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
